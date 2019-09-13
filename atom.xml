@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zuotsi.github.io/blog/</id>
-    <title>Sigmas is the Master!</title>
-    <updated>2019-09-13T14:14:29.525Z</updated>
+    <title>Sigma is the Master!</title>
+    <updated>2019-09-13T15:14:23.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zuotsi.github.io/blog/"/>
     <link rel="self" href="https://zuotsi.github.io/blog//atom.xml"/>
     <subtitle>Sigma家的家长里短！</subtitle>
     <logo>https://zuotsi.github.io/blog//images/avatar.png</logo>
     <icon>https://zuotsi.github.io/blog//favicon.ico</icon>
-    <rights>All rights reserved 2019, Sigmas is the Master!</rights>
+    <rights>All rights reserved 2019, Sigma is the Master!</rights>
     <entry>
         <title type="html"><![CDATA[日本中餐]]></title>
         <id>https://zuotsi.github.io/blog//post/ri-ben-zhong-can</id>
